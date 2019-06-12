@@ -61,12 +61,6 @@
     <Compile Include="frmQuanLyTheDocGia.Designer.cs">
       <DependentUpon>frmQuanLyTheDocGia.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmSuaTheDocGia.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmSuaTheDocGia.Designer.cs">
-      <DependentUpon>frmSuaTheDocGia.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmXoaTheDocGia.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -95,9 +89,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmQuanLyTheDocGia.resx">
       <DependentUpon>frmQuanLyTheDocGia.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmSuaTheDocGia.resx">
-      <DependentUpon>frmSuaTheDocGia.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmThemTheDocGia.resx">
       <DependentUpon>frmThemTheDocGia.cs</DependentUpon>
