@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//haha
 namespace QLThuVien
 {
     public partial class frmQuanLyTheDocGia : Form
@@ -178,7 +178,7 @@ namespace QLThuVien
                     }
                 }
                 
-              //  .Text = dg.HanSuDung + "";
+       
             }
         }
 
